@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Sence/StartGame.unity
+    guid: 970dcd2269e6e9b49bf1ee8b03b6bacc
+  - enabled: 1
+    path: Assets/Sence/StoryMenu.unity
+    guid: 2f9e131ef08e97a4ba65bfc41073bede
+  - enabled: 1
+    path: Assets/Sence/Warning.unity
+    guid: 11f8472a9dcfb9c4984f6da7a67a6597
+  - enabled: 1
+    path: Assets/Sence/StoryText.unity
+    guid: 9e4b9488fad880b4783e6be0e920626f
+  - enabled: 1
+    path: Assets/Sence/StoryText02.unity
+    guid: 3873acb4f52b49547b0501650d3d9498
+  - enabled: 1
+    path: Assets/Sence/StoryText03.unity
+    guid: 9c35933fcb3694a4aa6bf0c732891bb9
+  - enabled: 1
+    path: Assets/Sence/Jack's_House.unity
+    guid: e07f2e400a2d7164988fa11609016066
+  - enabled: 1
+    path: Assets/Sence/jackroad.unity
+    guid: 9a8a6ffaa7b36a04aa51ec7bc57cf538
+  - enabled: 1
+    path: Assets/Sence/2Jack's_House.unity
+    guid: a5e243c8613b14342ab71dfb58f30326
+  - enabled: 1
+    path: Assets/Sence/daum.unity
+    guid: f2ff10e9ed3ed4c479e4e94017cb0a27
+  - enabled: 1
+    path: Assets/Sence/3Jack's_House.unity
+    guid: 370ac33fe90483043aa186edc1028af0
+  - enabled: 1
+    path: Assets/Sence/2choice.unity
+    guid: f323a831a99de0d46a3508d0f8a2c1e5
+  - enabled: 1
+    path: Assets/Sence/2hint_b1.unity
+    guid: 41e83053ef4a4154ebd972abc54e69c7
+  - enabled: 1
+    path: Assets/Sence/2hint_b2.unity
+    guid: 5367dfa6fcc281243aca1e2293dc85d2
+  - enabled: 1
+    path: Assets/Sence/2hint_b4.unity
+    guid: 30e34b75b563cc449a2ea393243a4665
+  - enabled: 1
+    path: Assets/Sence/realcloudhouse.unity
+    guid: 49cf8c5dc09576f4db14412dbe09941f
+  - enabled: 1
+    path: Assets/Sence/choice.unity
+    guid: 0c5798a71cedcda4f980f1fcd8ae5ef7
+  - enabled: 1
+    path: Assets/Sence/hint_b1.unity
+    guid: b6cbd926c28e3264e842d1dbf1ba401d
+  - enabled: 1
+    path: Assets/Sence/hint_b3.unity
+    guid: b2c265d5ae3d9ac42933e3fa238ebeb7
+  - enabled: 1
+    path: Assets/Sence/hint_b4.unity
+    guid: 5adf4ea0328644845b588439e070ad51
+  - enabled: 1
+    path: Assets/Sence/Giant's_House.unity
+    guid: f86610cfb0f003c4faf78b371ec7b14d
+  - enabled: 1
+    path: Assets/Sence/3choice.unity
+    guid: f753b6afa71369e46b8c500ca3194425
+  - enabled: 1
+    path: Assets/Sence/3hint_b2.unity
+    guid: dd0fbec63bf12544e9a15fda8bf4c72f
+  - enabled: 1
+    path: Assets/Sence/3hint_b3.unity
+    guid: 53d6051e2b9d321409e08f6f36d2e537
+  - enabled: 1
+    path: Assets/Sence/3hint_b4.unity
+    guid: b1dd2e5745b724344baf4e4ff1428dfe
+  - enabled: 1
+    path: Assets/Sence/2Giant's_House.unity
+    guid: 0582f880f9d1ac249a6fe02c375c85e7
+  - enabled: 1
+    path: Assets/Sence/2realcloudhouse.unity
+    guid: 215c7462a4ae1084d859f82c4f81b039
+  - enabled: 1
+    path: Assets/Sence/4Jack's_House.unity
+    guid: c0c9c39662d0c5949830b1457f9ccea0
+  - enabled: 1
+    path: Assets/Sence/5Jack's_House.unity
+    guid: eea7d39dcfcf6694b9654f6e03a1d7e0
+  - enabled: 1
+    path: Assets/Sence/6Jack's_House.unity
+    guid: 0b8f14347b892db4984ec412da303217
+  - enabled: 1
+    path: Assets/Sence/EndText.unity
+    guid: 818913d3632c61d4382d24cf1149d8a8
+  m_configObjects: {}
